@@ -1,17 +1,22 @@
 # GitHub User Search Application
 Project Overview
-This is a web application built with React that allows users to search for GitHub users by their username. It fetches user data from the GitHub API and displays information such as the user's avatar, username, and a link to their GitHub profile. This project is designed to practice API integration, React component structuring, and UI design using a modern CSS framework.
+This is a web application built with React that allows users to search for GitHub users by their username. 
+It fetches user data from the GitHub API and displays information such as the user's avatar, username, and a link to their GitHub profile. 
+This project is designed to practice API integration, React component structuring, and UI design using a modern CSS framework.
 
 Features
-Search GitHub users by their username.
-Display user profile information, including avatar, username, and a link to their GitHub profile.
-Responsive design with compatibility across various browsers.
-Loading state handling during the API request process.
+* Search GitHub users by their username.
+* Display user profile information, including avatar, username, and a link to their GitHub profile.
+* Loading state handling during the API request process.
+
+
 Technologies Used
-React: JavaScript library for building user interfaces.
-Tailwind CSS: Utility-first CSS framework for styling the application.
-Axios: HTTP client to make requests to the GitHub API.
-Font Awesome: Icon library used to enhance the UI with icons.
+* React: JavaScript library for building user interfaces.
+* Tailwind CSS: Utility-first CSS framework for styling the application.
+* Axios: HTTP client to make requests to the GitHub API.
+* Font Awesome: Icon library used to enhance the UI with icons.
+
+
 How to Run the Project
 Clone the repository:
 bash
