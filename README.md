@@ -17,25 +17,11 @@ Technologies Used
 * Font Awesome: Icon library used to enhance the UI with icons.
 
 
-How to Run the Project
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/github-user-search.git
-Install dependencies:
-bash
-Copy code
-npm install
-Run the development server:
-bash
-Copy code
-npm start
-The application will be available at http://localhost:3000.
-
 API Used
 GitHub API: The public REST API used to search for users.
 
- React + Vite
+
+ <h2>React + Vite<h2/>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
