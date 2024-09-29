@@ -1,4 +1,4 @@
-GitHub User Search Application
+# GitHub User Search Application
 Project Overview
 This is a web application built with React that allows users to search for GitHub users by their username. It fetches user data from the GitHub API and displays information such as the user's avatar, username, and a link to their GitHub profile. This project is designed to practice API integration, React component structuring, and UI design using a modern CSS framework.
 
@@ -30,8 +30,7 @@ The application will be available at http://localhost:3000.
 API Used
 GitHub API: The public REST API used to search for users.
 
-
-# React + Vite
+ React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
